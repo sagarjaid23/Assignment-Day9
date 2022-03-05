@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rr1XY3WWfdCO7/jrSrdLzhGW+4f4nkER1Hdfx2QIjazZK/Y+wbUnwvPbw17MScd4SykLJFw6rcs1CejkPIY4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eg1001\\Desktop\\.net\\Day9\\AddressBook UC1\\AddressBook UC1\\AddressBook UC1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eg1001\\.nuget\\packages\\documentformat.openxml\\2.15.0\\documentformat.openxml.2.15.0.nupkg.sha512",
+    "C:\\Users\\eg1001\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
